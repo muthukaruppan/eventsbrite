@@ -1,0 +1,38 @@
+
+/* API Settings Css Start*/
+
+.wp-menu-image img {
+	width: 57%;
+	height: auto;
+}
+.api_settings h2 {
+	font-size: 30px;
+    margin: 30px 0;
+}
+.api_settings input {
+	padding: 6px 0;
+    width: 28%;
+    margin-bottom: 30px;
+}
+.api_settings label {
+	display: inline-block;
+    width: 110px;
+    cursor: text;
+    font-size: 14px;
+}
+.api_settings button {
+	background : #9bd4ef;
+	border-color: gray;
+    border-radius: 28%;
+    left: 350px;
+    padding: 6px 20px;
+    position: relative;
+    cursor: pointer;
+}
+.api_settings button:hover {
+	background : #81b7de;
+	color : #fff;
+}
+
+
+/* API Settings Css End*/
